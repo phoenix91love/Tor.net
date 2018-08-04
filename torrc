@@ -2,8 +2,8 @@ SOCKSPort 9050
 ControlPort 9051
 HashedControlPassword 16:1E9EDFB70633F0F06075E2CB2633B521AD9156D3FB595C76F8F97B589D
 CookieAuthentication 1
-DataDirectory C:\Users\TranDuyThanh\Desktop\tor-win32-0.3.3.7\Data\Tor
-GeoIPFile C:\Users\TranDuyThanh\Desktop\tor-win32-0.3.3.7\Data\Tor\geoip
-GeoIPv6File C:\Users\TranDuyThanh\Desktop\tor-win32-0.3.3.7\Data\Tor\geoip6
+DataDirectory C:\Users\Yor\Desktop\tor-win32-0.3.3.7\Data\Tor
+GeoIPFile C:\Users\Yor\Desktop\tor-win32-0.3.3.7\Data\Tor\geoip
+GeoIPv6File C:\Users\Yor\Desktop\tor-win32-0.3.3.7\Data\Tor\geoip6
 HiddenServiceDir D:\public\hidden
 HiddenServicePort 80 127.0.0.1:80
