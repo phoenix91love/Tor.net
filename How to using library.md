@@ -14,7 +14,7 @@ Add config in project
   </appSettings>
   
   - Profile and License: Please contact me to get the key;
-  -ControlPort, SocketPort: port not used
+  - ControlPort, SocketPort: port not used
   4) Function Library:
   public static string HTTPGetAPI(string uri, Client client = null, Dictionary<string, string> queryParams = null, int port = -1);
   public static string HTTPGetAPI(Uri uri, Client client = null, Dictionary<string, string> queryParams = null, int port = -1);
